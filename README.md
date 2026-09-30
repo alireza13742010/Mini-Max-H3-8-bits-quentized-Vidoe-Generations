@@ -8,7 +8,7 @@ The app follows the [model card recipe](https://huggingface.co/abhishekchohan/mi
 
 ## 🎥 Video Tutorial
 
-> **Watch the walkthrough:** [▶ YOUTUBE_VIDEO_LINK_HERE](YOUTUBE_VIDEO_LINK_HERE)
+> **Watch the walkthrough:** https://youtu.be/SQW2Dago-n0
 
 <!-- Optional: clickable thumbnail. Replace VIDEO_ID with your video's ID.
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
