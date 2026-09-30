@@ -1,0 +1,12 @@
+{
+  "load|ref2va|lowvram=1|blocks=1": {
+    "load_s": 93.2
+  },
+  "run|ref2va|544x960|149f|lowvram=1|blocks=1": {
+    "prep_s": 85.4,
+    "step_s": 61.04,
+    "post_s": 322.1,
+    "steps": 28,
+    "updated": "2026-09-30T13:20:13"
+  }
+}

@@ -1,0 +1,10 @@
+conda deactivate
+conda env remove -n minimax_h3 -y      # skip if you never created it
+conda create -n minimax_h3 python=3.11 -y
+conda activate minimax_h3
+
+pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu126
+pip install -U transformers accelerate huggingface_hub safetensors \
+    streamlit imageio imageio-ffmpeg pillow numpy
+pip install -U git+https://github.com/huggingface/diffusers.git
+pip install -U torchao
